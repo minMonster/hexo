@@ -1,6 +1,7 @@
 ---
 title: Linux shell
 date: 2018-01-23 18:57:42
+update: 2019-04-28 16:43:26
 description: linux 命令汇总
 tags: [shell]
 categories: Linux
@@ -88,6 +89,14 @@ $ kill -9 java_id
 
 ```bash
 $ scp -p2222 -r demo.txt root@47.94.238.16:/usr/local/tomcat/tomcat_api/webapps
+```
+
+### 搜索文件命令
+
+> **-name** 制定用什么搜索
+
+```bash
+ find / -name log.datetime
 ```
 
 
