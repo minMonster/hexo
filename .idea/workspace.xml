@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93a4334d-a4d3-4843-9914-e5403fcd008a" name="Default" comment="">
+    <list default="true" id="d07993bc-94b2-4d9e-9fc9-f9c7798c1980" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/source/_posts/IDE-eslint-自动格式化（webstorm、vsCode）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Web高性能动画/WEB高性能动画.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/docker实战01-概念篇.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/docker实战01-概念篇/20190131155147837.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/docker实战01-概念篇/20190131173509954.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/docker实战01-概念篇/20190131173524559.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/docker实战01-概念篇/20190131193142244.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/docker实战01-概念篇/20190131202811346.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/docker实战01-概念篇/20190131203930409.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/docker实战01-概念篇/9a7056bece5fbc063035491ce8481456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/docker实战01-概念篇/container-what-is-container.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/docker实战01-概念篇/timg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/docker实战01-概念篇/企业微信截图_35a94c44-9b40-43b7-88bd-6424a284d4c5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/docker实战01-概念篇/企业微信截图_671d493e-c48d-4b3c-860c-5c2f838b521a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/docker实战01-概念篇/企业微信截图_81512df8-df8f-4055-a0e1-281e32a168cb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/web高性能动画.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/《启示录》产品.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/《启示录》产品/启示录-产品.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/人人都是产品经理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/人人都是产品经理/人人都是产品经理-5、6、7新增.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/你为什么卸载今日头条和抖音？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/启示录-流程篇.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/启示录-流程篇/《启示录》--流程.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/启示录.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/启示录/《启示录》.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/阿里云服务器（Centos）问题记录.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/exmm/WEB高性能动画.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/xli.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Linux-shell.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Linux-shell.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next/languages/zh-Hans.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/languages/zh-Hans.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,72 +52,34 @@
     <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>%s</find>
-      <find>Hexo</find>
-      <find>目前共计</find>
-      <find>canvas</find>
-      <find>强力驱动</find>
-      <find>NexT.Gemini</find>
-      <find>about</find>
-      <find>v</find>
-      <find>图片</find>
-      <find>asdasd</find>
-      <find>asdasdasd</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
   </component>
-  <component name="ProjectId" id="1TZMrl9R0siY47fnjW7YPIGv640" />
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>AngularJS</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
+  <component name="ProjectId" id="1Tay1Xjvb87qfBiVHJRhMqsFrwF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/about" />
-      <recent name="$PROJECT_DIR$/source/_posts" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,64 +98,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="93a4334d-a4d3-4843-9914-e5403fcd008a" name="Default" comment="" />
-      <created>1519466820959</created>
+      <changelist id="d07993bc-94b2-4d9e-9fc9-f9c7798c1980" name="Default Changelist" comment="" />
+      <created>1573712285840</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1519466820959</updated>
-      <workItem from="1519466838192" duration="5122000" />
-      <workItem from="1523272254260" duration="2681000" />
-      <workItem from="1528335641148" duration="1681000" />
-      <workItem from="1528645850735" duration="462000" />
-      <workItem from="1529402976443" duration="349000" />
-      <workItem from="1529458820754" duration="5861000" />
-      <workItem from="1529505932276" duration="2172000" />
-      <workItem from="1529543330552" duration="62000" />
-      <workItem from="1529765848426" duration="3972000" />
-      <workItem from="1530182556044" duration="144000" />
-      <workItem from="1530237625780" duration="352000" />
-      <workItem from="1530289941870" duration="2986000" />
-      <workItem from="1530464608570" duration="1078000" />
-      <workItem from="1530495950490" duration="63000" />
-      <workItem from="1530669241239" duration="544000" />
-      <workItem from="1530718039502" duration="227000" />
-      <workItem from="1530984463525" duration="1677000" />
-      <workItem from="1531031521670" duration="85000" />
-      <workItem from="1531631872549" duration="856000" />
-      <workItem from="1532233970338" duration="2509000" />
-      <workItem from="1532594677165" duration="349000" />
-      <workItem from="1532879379957" duration="609000" />
-      <workItem from="1532881654833" duration="302000" />
-      <workItem from="1533195246257" duration="1135000" />
-      <workItem from="1533212657359" duration="139000" />
-      <workItem from="1533219281540" duration="835000" />
-      <workItem from="1533485350344" duration="693000" />
-      <workItem from="1534089763104" duration="1766000" />
-      <workItem from="1534679458561" duration="6029000" />
-      <workItem from="1535294448307" duration="3316000" />
-      <workItem from="1535955457937" duration="556000" />
-      <workItem from="1536921768222" duration="976000" />
-      <workItem from="1537149014693" duration="241000" />
-      <workItem from="1537766963909" duration="1575000" />
-      <workItem from="1537840512594" duration="90000" />
-      <workItem from="1540878535822" duration="515000" />
-      <workItem from="1543158121124" duration="2872000" />
-      <workItem from="1543197961559" duration="23000" />
-      <workItem from="1543753278788" duration="446000" />
-      <workItem from="1543802244193" duration="286000" />
-      <workItem from="1544375096723" duration="363000" />
-      <workItem from="1544971055391" duration="359000" />
-      <workItem from="1545012838752" duration="196000" />
-      <workItem from="1545030543571" duration="985000" />
-      <workItem from="1545395973711" duration="524000" />
-      <workItem from="1545617958843" duration="229000" />
-      <workItem from="1546075211190" duration="1997000" />
-      <workItem from="1546758521849" duration="1717000" />
-      <workItem from="1546826145308" duration="28000" />
-      <workItem from="1547390267273" duration="755000" />
-      <workItem from="1573662638734" duration="294000" />
-      <workItem from="1573663366985" duration="572000" />
-      <workItem from="1573700167302" duration="257000" />
+      <updated>1573712285840</updated>
+      <workItem from="1573712287012" duration="1541000" />
+      <workItem from="1575887506807" duration="1019000" />
     </task>
     <servers />
   </component>
@@ -179,20 +123,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
